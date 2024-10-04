@@ -26,4 +26,10 @@ After copying a template, be sure to:
 
 Contributions are welcome! Feel free to open a pull request with any new templates or improvements.
 
+<div align="center">
+
+## Preview of Notebook - Created on 2024.10.04
+
 ![Preview of Book folder](preview.png)
+
+</div>
