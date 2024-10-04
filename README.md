@@ -25,3 +25,5 @@ After copying a template, be sure to:
 ## Contributing
 
 Contributions are welcome! Feel free to open a pull request with any new templates or improvements.
+
+![Preview of Book folder](preview.png)
