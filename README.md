@@ -1,8 +1,9 @@
 # Templates
+[Click here to see Deployed Site which contains links to templates](https://uwttn.github.io/templates/)
 
 # Project Templates Repository
 
-This repository contains a collection of project templates that can be used as starting points for various types of projects. These templates are intended for personal or shared use but are not meant to be deployed directly.
+This repository contains a collection of project templates that can be used as starting points for various types of projects. These templates are intended for personal or shared use.
 
 ## Folder Structure
 
@@ -34,7 +35,7 @@ Contributions are welcome! Feel free to open a pull request with any new templat
 
 </div>
 
-Below are badges
+Below are badges used on my READMEs
 
 <div align="center">
 
